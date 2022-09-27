@@ -1,4 +1,4 @@
-package TelegramShopBot;
+package com.company;
 
 
 import org.telegram.telegrambots.meta.TelegramBotsApi;
